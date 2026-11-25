@@ -1,0 +1,4 @@
+---
+categories:
+  - "[[Daily Notes]]"
+---
